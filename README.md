@@ -1,2 +1,2 @@
 # PongGame
-# Python Practice 1
+Python Practice 1
